@@ -2,22 +2,14 @@
 ##### Link:  
 \- Notes: https://docs.google.com/document/d/1Pp6LdA5bjdCzwkdoLVbWXltXAY5qiwvlO1cbLjHQHQI/edit  
 
-"In this chapter, you'll be diving deep into the process of problem-solving.  
+"In this chapter, you'll be diving deep into the process of problem-solving. Software developers are professional problem solvers. They identify the business problem a client is having:  
+\- "It's hard to keep our customers informed when the menus for our restaurant change"  
+\- "We need a smoother checkout system for our eCommerce craft store"  
+\- "The students for our yoga studio have a hard time knowing when classes are scheduled"  
+Then, they use software or web applications as tools to solve those problems! Software is so much more than just writing and testing code. It's creating solutions to people's problems that make their lives easier and help their businesses thrive! That's where you come in."
 
-Software developers are professional problem solvers. They identify the business problem a client is having:
-
-"It's hard to keep our customers informed when the menus for our restaurant change"
-
-"We need a smoother checkout system for our eCommerce craft store"
-
-"The students for our yoga studio have a hard time knowing when classes are scheduled"
-
-Then, they use software or web applications as tools to solve those problems! Software is so much more than just writing and testing code. It's creating solutions to people's problems that make their lives easier and help their businesses thrive! That's where you come in.
-
-In this chapter, we'll be diving into a totally different paradigm of writing software called "object-oriented programming". 
-
-This differs from the previous style we have been using, which is a more function-based approach that emphasizes orchestrating functions together as a series of actions like you did in Day Trip Generator. Now, we'll be writing programs where objects that we create interact with each other to create the flow of our applications.
-
+In this chapter, we'll be diving into a totally different paradigm of writing software called "object-oriented programming.   
+This differs from the previous style we have been using, which is a more function-based approach that emphasizes orchestrating functions together as a series of actions like you did in Day Trip Generator. Now, we'll be writing programs where objects that we create interact with each other to create the flow of our applications.  
 There are many styles of programming out there, but OOP is a popular one and one that we will use quite a bit throughout the course!"
 
 ### PROJECTS IN THIS GIT:
