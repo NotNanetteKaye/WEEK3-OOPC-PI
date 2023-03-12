@@ -1,10 +1,8 @@
-word = 'Nanette'
-
-
+word = input('Please enter a word to be reversed: ')
 def reverser(word):
     reversed_word= ''
     for i in range(len(word) -1, -1, -1):
-        return reversed_word
+        reversed_word += word[i]
     print(reversed_word)
 
-reverser(word)
+start_reverser = reverser(word)
