@@ -12,7 +12,7 @@ In this chapter, we'll be diving into a totally different paradigm of writing so
 This differs from the previous style we have been using, which is a more function-based approach that emphasizes orchestrating functions together as a series of actions like you did in Day Trip Generator. Now, we'll be writing programs where objects that we create interact with each other to create the flow of our applications.  
 There are many styles of programming out there, but OOP is a popular one and one that we will use quite a bit throughout the course!"
 
-### PROJECTS IN THIS GIT:
+### PROJECTS IN THIS GIT (3):
 ## PROBLEM SOLVING PROBLEMS PART 1  
 "To be a good problem solver, it is important to be able to break problems down."  
 ✅: Completed  
