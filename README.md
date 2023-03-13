@@ -15,9 +15,8 @@ There are many styles of programming out there, but OOP is a popular one and one
 ### PROJECTS IN THIS GIT:
 ## PROBLEM SOLVING PROBLEMS PART 1  
 "To be a good problem solver, it is important to be able to break problems down."  
-📈: making progress  
-🤔: Video answer tutorial available. 
-
+✅: Completed  
+🤔: Need to go back & explain logic  
 ##### Link:  
 \- Problems:  https://docs.google.com/document/d/1gwOi9DHFuU-bwffbaKLrZL-2j4UfApvY/edit#heading=h.gjdgxs  
 
