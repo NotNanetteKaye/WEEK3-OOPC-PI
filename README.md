@@ -21,5 +21,5 @@ Problems:  https://docs.google.com/document/d/1gwOi9DHFuU-bwffbaKLrZL-2j4UfApvY/
 
 ## Classes & Objects Lab  
 "In Python, classes and objects are pivotal concepts in building console, web, and mobile applications. That means what you learn now are the exact same tools that professional developers use to build your favorite applications!"  
-🤔: Need to start
+🤔: Need to start  
 Lab: https://docs.google.com/document/u/1/d/1qe-YBxgL7rM4k-Pmpp3jyHY3XIDS9Hs0/edit?usp=drive_web&ouid=110108956357895038429&rtpof=true
