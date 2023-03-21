@@ -1,7 +1,7 @@
 # WEEK 3: OBJECT ORIENTED PROGRAMMING PART I  
 ##### Link:  
-\- Notes: https://docs.google.com/document/d/1Pp6LdA5bjdCzwkdoLVbWXltXAY5qiwvlO1cbLjHQHQI/edit 
-\- Key Concepts: Problem Solving, OOPC, Classes & Objects
+\- Notes: https://docs.google.com/document/d/1Pp6LdA5bjdCzwkdoLVbWXltXAY5qiwvlO1cbLjHQHQI/edit  
+ \- Key Concepts: Problem Solving, OOPC, Classes & Objects
 
 "In this chapter, you'll be diving deep into the process of problem-solving. Software developers are professional problem solvers. They identify the business problem a client is having:  
 ###### \- "It's hard to keep our customers informed when the menus for our restaurant change"  
