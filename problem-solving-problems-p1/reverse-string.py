@@ -10,7 +10,7 @@ word = input('\nPlease enter a word to be reversed: ')
 
 def reverser(word):
     reversed_word= ''
-    for i in range(len(word) -1, -1, -1): # what does the range function do?
+    for i in range(len(word) -1, -1, -1): # what does the range function do? commonly used with for loop to run loop X amount of times
         reversed_word += word[i]
     print('\n', reversed_word, '\n')
     return reversed_word
