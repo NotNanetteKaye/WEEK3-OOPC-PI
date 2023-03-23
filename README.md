@@ -28,4 +28,7 @@ Lab: https://docs.google.com/document/u/1/d/1qe-YBxgL7rM4k-Pmpp3jyHY3XIDS9Hs0/ed
 ## PROBLEM SOLVING PROBLEMS PART 2  
 "To be a good problem solver, it is important to be able to break problems down."  
 📈: Created file. Solve first module!
-Problems: https://docs.google.com/document/d/1JUGiI70_gmyt0nFKknc0LJUEaRmpQcuj/edit 
+Problems: https://docs.google.com/document/d/1JUGiI70_gmyt0nFKknc0LJUEaRmpQcuj/edit  
+
+## LEETCODE PROBLEMS  
+https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1
