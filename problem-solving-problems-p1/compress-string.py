@@ -1,4 +1,8 @@
-count_this_variable = input('Type any variable to count its types: ')
+
+count_this_variable = input('\nType any variable to count its types: \n')
+
+
+
 def type_counter(og_variable):
     final_result = ''
     letter_counter = 1
