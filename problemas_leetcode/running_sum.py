@@ -11,3 +11,6 @@ def running_sum(nums):
 
 
 start = running_sum(nums)
+
+# https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1
+# https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1
