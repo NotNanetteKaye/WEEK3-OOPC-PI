@@ -1,7 +1,7 @@
 class AlarmClock: 
     def __init__(self):
         self.current_time = ''
-        self. alarm_status = 'on'
+        self. alarm_status = 1  # 1 means alarm is on
         self.alarm_alert = ''
         pass
 
@@ -11,8 +11,16 @@ class AlarmClock:
         pass
 
     def toggle_alarm(self):
-        # I want the AlarmClock class 
-        # to have a method to toggle the alarm on or off. 
+        user_input = input('Updating alarm status! Press 1 for on or 2 for off: ')
+        if user_input == '1' or user_input == '2':
+            if user_input == '1':
+                print('Alarm status is on')
+            elif user_input == '2':
+                self.alarm_status += 1
+                print('Alarm status is off')
+        else:
+            print('invalid option. try again')
+            self.toggle_alarm()     
         pass
 
     def set_current_alarm_time(self):
