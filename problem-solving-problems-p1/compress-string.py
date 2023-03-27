@@ -18,3 +18,5 @@ def type_counter(og_variable):
 
 
 start = type_counter(count_this_variable)
+
+# 🤔: necesito entender este problema
