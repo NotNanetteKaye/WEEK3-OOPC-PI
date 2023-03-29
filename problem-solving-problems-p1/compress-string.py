@@ -7,7 +7,7 @@ def type_counter(og_variable):
     final_result = ''
     letter_counter = 1 # define a letter counter that begins at 1
     for i in range(len(og_variable)):
-        if i == len(og_variable) - 1:
+        if i == len(og_variable) - 1: # to escape the for loop
             final_result += str(letter_counter) + og_variable[i]
         elif og_variable[i] == og_variable[i + 1]: # condition if variable at that index == variable ahead of the index by 1 then we + 1 to letter counter
             letter_counter += 1
@@ -18,5 +18,3 @@ def type_counter(og_variable):
 
 
 start = type_counter(count_this_variable)
-
-# 🤔: necesito entender este problema
