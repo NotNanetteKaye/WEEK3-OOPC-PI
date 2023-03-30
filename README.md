@@ -16,8 +16,7 @@ There are many styles of programming out there, but OOP is a popular one and one
 ### PROJECTS IN THIS GIT (3):
 ## PROBLEM SOLVING PROBLEMS PART 1  
 "To be a good problem solver, it is important to be able to break problems down."  
-✅: Completed  
-🤔: Need to go back & explain logic    
+✅: Completed      
 Problems:  https://docs.google.com/document/d/1gwOi9DHFuU-bwffbaKLrZL-2j4UfApvY/edit#heading=h.gjdgxs  
 
 ## Classes & Objects Lab  
@@ -31,5 +30,4 @@ Lab: https://docs.google.com/document/u/1/d/1qe-YBxgL7rM4k-Pmpp3jyHY3XIDS9Hs0/ed
 Problems: https://docs.google.com/document/d/1JUGiI70_gmyt0nFKknc0LJUEaRmpQcuj/edit  
 
 ## LEETCODE PROBLEMS  
-🤔: ano ang hash index  
 https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1
