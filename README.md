@@ -30,4 +30,5 @@ Lab: https://docs.google.com/document/u/1/d/1qe-YBxgL7rM4k-Pmpp3jyHY3XIDS9Hs0/ed
 Problems: https://docs.google.com/document/d/1JUGiI70_gmyt0nFKknc0LJUEaRmpQcuj/edit  
 
 ## LEETCODE PROBLEMS  
-https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1
+https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1  
+https://www.youtube.com/watch?v=DVgseUp0qOY
