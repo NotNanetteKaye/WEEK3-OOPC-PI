@@ -33,4 +33,5 @@ Problems: https://docs.google.com/document/d/1JUGiI70_gmyt0nFKknc0LJUEaRmpQcuj/e
 https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1  
 https://www.youtube.com/watch?v=DVgseUp0qOY  
 392: https://www.youtube.com/watch?v=99RVfqklbCE  
-21: https://www.youtube.com/watch?v=XIdigk956u0&t=306s
+21: https://www.youtube.com/watch?v=XIdigk956u0&t=306s  
+206: https://www.youtube.com/watch?v=G0_I-ZF0S38
