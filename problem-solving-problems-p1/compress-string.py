@@ -1,5 +1,5 @@
 
-count_this_variable = input('\nType any variable to count its types: \n')
+count_this_variable = input('\nType any variable to count its types: ')
 
 
 
