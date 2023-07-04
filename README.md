@@ -32,6 +32,7 @@ Problems: https://docs.google.com/document/d/1JUGiI70_gmyt0nFKknc0LJUEaRmpQcuj/e
 ## LEETCODE PROBLEMS  
 https://leetcode.com/study-plan/leetcode-75/?progress=xz3itpu1  
 205: https://www.youtube.com/watch?v=DVgseUp0qOY  
+205 (more efficient solution): https://www.youtube.com/watch?v=7yF-U1hLEqQ  
 392: https://www.youtube.com/watch?v=99RVfqklbCE  
 21: https://www.youtube.com/watch?v=XIdigk956u0&t=306s  
 206: https://www.youtube.com/watch?v=G0_I-ZF0S38
